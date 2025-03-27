@@ -1,2 +1,2 @@
 # Responsive-website
-Basic responsiveness website
+Basic responsiveness website.
